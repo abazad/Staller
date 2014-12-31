@@ -1,9 +1,14 @@
 # -*- coding: cp1254 -*-
-"""
-DarkDevilz | DDz  
-Coder: Kara Ayaz  |  karaayaz_@outlook.com   
-MuRe Proje Ekibi	                 Staller
-"""
+print """Arne Stealer
+ _   __                   ___                  
+| | / /                  / _ \                 
+| |/ /  __ _ _ __ __ _  / /_\ \_   _  __ _ ____
+|    \ / _` | '__/ _` | |  _  | | | |/ _` |_  /
+| |\  \ (_| | | | (_| | | | | | |_| | (_| |/ / 
+\_| \_/\__,_|_|  \__,_| \_| |_/\__, |\__,_/___|
+                                __/ |          
+                               |___/
+Simple Virus Software | karaayaz_"""
 
 # Modüller
 import os
@@ -16,7 +21,7 @@ import threading
 import virus
 
 ############# Dosya Dizinleri #############
-cw = "\Ayaz\cw"
+cw = "\Ayaz\Arne"
 if not os.path.exists(cw):
     os.makedirs(cw)
 
